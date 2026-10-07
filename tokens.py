@@ -10,6 +10,10 @@ texts = [
     "2 + 2 = 4, and 12345678 is a number",
     "నమస్కారం, ఎలా ఉన్నారు?",
     "def add(a, b):\n    return a + b",
+    "Gowtham",
+    " Gowtham",
+    "aaaaaaaaaaaaaaaaaaaa",
+    "I love LLMs",
 ]
 
 for text in texts:
